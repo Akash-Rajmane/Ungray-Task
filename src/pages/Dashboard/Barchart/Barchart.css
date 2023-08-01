@@ -1,0 +1,26 @@
+.d-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue-box {
+  margin-top: 7px;
+  margin-right: 5px;
+  width: 10px;
+  height: 10px;
+  background-color: #0000ff;
+}
+
+.l-blue-box {
+  margin-top: 7px;
+  margin-right: 5px;
+  width: 10px;
+  height: 10px;
+  background-color: #add8e6;
+}
+
+.legend-text {
+  margin-right: 10px;
+}
